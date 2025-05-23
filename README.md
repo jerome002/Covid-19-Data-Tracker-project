@@ -1,19 +1,18 @@
-# Covid-19-Data-Tracker-project
-# 🦠 COVID-19 Global Data Tracker
+### 🦠 COVID-19 Global Data Tracker
 
-A data analysis project that tracks COVID-19 trends globally, with a specific focus on Kenya, Uganda, and Tanzania. 
-The project uses real-world data to explore confirmed cases, deaths, and vaccination progress through visualizations and insights.
+An interactive data analysis and visualization project built with **Python** to explore the global impact of COVID-19, with a special focus on **Kenya, Uganda, and Tanzania**. The project utilizes real-world data from [Our World in Data](https://ourworldindata.org/coronavirus) and showcases trends through insightful visualizations.
 
----
+**🔧 Technologies Used:**
+- Python (pandas, matplotlib, seaborn)
+- Jupyter Notebook
+- CSV data from OWID
 
-## 🎯 Project Objectives
+**📌 Key Features:**
+- Data cleaning and preprocessing of global COVID-19 data
+- Time-series analysis of confirmed cases, deaths, and vaccinations
+- Comparative country-level insights for East Africa
+- Visualizations that uncover meaningful trends and spikes
 
-- Import and clean COVID-19 data from a trusted source
-- Analyze trends in cases, deaths, and vaccinations
-- Compare key metrics across Kenya, Uganda, and Tanzania
-- Create meaningful visualizations (line charts, bar charts, etc.)
-- Communicate key findings and insights in a clear, readable format
+This project highlights my skills in **data wrangling, visualization, and analysis** using Python.
 
----
-
-## 🛠️ Tools & Libraries
+🔗 [View the GitHub Repository](https://github.com/jerome002/Covid-19-Data-Tracker-project)
